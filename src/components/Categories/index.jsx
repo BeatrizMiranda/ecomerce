@@ -1,4 +1,4 @@
-import { categories } from "../../categories";
+import { categories } from "../../constants";
 import { Card } from "../Card";
 import "./styles.scss"
 
